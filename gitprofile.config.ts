@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Nikhil Sharma',
     description: '',
     imageURL: '',
   },
@@ -80,23 +80,22 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://nikneal91.github.io/gitprofile/Nikhil.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JAVA',
     'JAVA EE',
-    'JavaScript',
+    'Quarkus',
     'React.js',
-    'Spring',
     'Spring-Boot',
-    'MySQL',
+    'PostgreSQL',
     'Oracle',
     'Git',
     'Docker',
     'Kubernetes',
     'Helm',
     'Maven',
-    'Bootstrap',
+    'Kafka',
   ],
   experiences: [
     {
