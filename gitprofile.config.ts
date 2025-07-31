@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://nikneal91.github.io/gitprofile/Nikhil.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/nikneal91/gitprofile/main/Nikhil.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JAVA',
